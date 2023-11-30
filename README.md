@@ -10,6 +10,5 @@
 ## Objectiu
 - El que volem aconseguir es construir el robot més complet i equilirat en rapidesa, resistencia i estetica per a la cursa de robots que hi farem amb la resta de companys de robotica.
 
-## Esbos
-
+## Esbós del nostre robot
 ![Alt text](Esbos.jpg)
